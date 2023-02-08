@@ -1,0 +1,2512 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-br"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="pt-br"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="pt-br"><![endif]-->
+<!--[if gt IE 8]> <html class="no-js ie9" lang="pt-br"><![endif]-->
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8" />
+		<title>Plantas Aquáticas - Flora Aquática®</title>
+		<meta name="description" content="A maior e mais bela variedade de plantas aquáticas para ornamentar seu aquário ou lago." />
+		<meta name="generator" content="PrestaShop" />
+		<meta name="robots" content="index,follow" />
+		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1622435519" />
+		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1622435519" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/global.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/autoload/highdpi.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/autoload/responsive-tables.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/autoload/uniform.default.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/product_list.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/category.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/scenes.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockbestsellers/blockbestsellers.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockcart/blockcart.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/js/jquery/plugins/bxslider/jquery.bxslider.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockcategories/blockcategories.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blocklanguages/blocklanguages.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockcontact/blockcontact.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockmyaccountfooter/blockmyaccount.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blocknewproducts/blocknewproducts.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blocknewsletter/blocknewsletter.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blocksearch/blocksearch.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/js/jquery/plugins/autocomplete/jquery.autocomplete.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockspecials/blockspecials.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockuserinfo/blockuserinfo.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockviewed/blockviewed.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/homefeatured/homefeatured.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blockwishlist/blockwishlist.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/js/jquery/plugins/growl/jquery.growl.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/favoriteproducts/favoriteproducts.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/modules/breadcrumbmenu/views/css/breadcrumbmenu.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blocktopmenu/css/blocktopmenu.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/flower_shop/css/modules/blocktopmenu/css/superfish-modified.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/modules/bacookielawinfo/views/css/style_frontend.css" type="text/css" media="all" />
+		<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var FancyboxI18nClose = 'Fechar';
+var FancyboxI18nNext = 'Pr&oacute;ximo';
+var FancyboxI18nPrev = 'Anterior';
+var added_to_wishlist = 'Adicionado a lista de desejos';
+var ajax_allowed = true;
+var ajaxsearch = true;
+var baseDir = 'https://www.flora-aquatica.com.br/';
+var baseUri = 'https://www.flora-aquatica.com.br/';
+var blocksearch_type = 'top';
+var comparator_max_item = 4;
+var comparedProductsIds = [];
+var contentOnly = false;
+var customizationIdMessage = 'Personalização Nº';
+var delete_txt = 'Apagar';
+var displayList = false;
+var favorite_products_url_add = 'https://www.flora-aquatica.com.br/module/favoriteproducts/actions?process=add';
+var favorite_products_url_remove = 'https://www.flora-aquatica.com.br/module/favoriteproducts/actions?process=remove';
+var freeProductTranslation = 'Grátis!';
+var freeShippingTranslation = 'Frete grátis!';
+var generated_date = 1675813692;
+var hasDeliveryAddress = false;
+var id_lang = 1;
+var img_dir = 'https://www.flora-aquatica.com.br/themes/flower_shop/img/';
+var instantsearch = false;
+var isGuest = 0;
+var isLogged = 0;
+var isMobile = false;
+var loggin_required = 'Você precisa estar logado para gerenciar sua lista de desejos.';
+var max_item = 'Você não pode adicionar mais de 4 produto(s) para fazer o comparativo.';
+var min_item = 'Por favor selecione pelo menos um produto.';
+var mywishlist_url = 'https://www.flora-aquatica.com.br/module/blockwishlist/mywishlist';
+var page_name = 'category';
+var placeholder_blocknewsletter = 'Digite seu e-mail';
+var priceDisplayMethod = 0;
+var priceDisplayPrecision = 2;
+var quickView = true;
+var removingLinkText = 'Retirar este produto do meu carrinho';
+var request = 'https://www.flora-aquatica.com.br/17-plantas-aquaticas';
+var roundMode = 2;
+var search_url = 'https://www.flora-aquatica.com.br/procurar';
+var static_token = '42079db058a62a757ba9bf643138a4ba';
+var toBeDetermined = 'A ser determinado';
+var token = 'bbd5957aa4de6668bd9b9644b0b90e21';
+var usingSecureMode = true;
+var wishlistProductsIds = false;
+</script>
+
+		<script type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/jquery.easing.js"></script>
+		<script type="text/javascript" src="/js/tools.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/global.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/autoload/10-bootstrap.min.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/autoload/15-jquery.total-storage.min.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/autoload/15-jquery.uniform-modified.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/products-comparison.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/category.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/modules/blockcart/ajax-cart.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/jquery.scrollTo.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/jquery.serialScroll.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/bxslider/jquery.bxslider.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/tools/treeManagement.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/modules/blocknewsletter/blocknewsletter.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/modules/blocksearch/blocksearch.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/modules/blockwishlist/js/ajax-wishlist.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/growl/jquery.growl.js"></script>
+		<script type="text/javascript" src="/modules/favoriteproducts/favoriteproducts.js"></script>
+		<script type="text/javascript" src="/modules/breadcrumbmenu/views/js/breadcrumbmenu.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+		<script type="text/javascript" src="/themes/flower_shop/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+			<!--Modules BA EU Cookie Law-->
+<style type="text/css">
+	
+	#ba_eu_cookie_law{
+		background:#2F3337;
+		border-bottom-color:#2F3337 !important;
+		border-bottom-style:solid;
+	}
+	#ba_eu_cookie_law .ba_eu_cookie_law_text{
+		color:#FFFFFF;
+	}
+	#ba_eu_cookie_accept{
+		color:#2F3337;
+		background:#FFFFFF;	}
+	#ba_eu_cookie_more_info{
+		color:#FFFFFF;
+			}
+	#ba_eu_cookie_accept:hover{
+		color:#2F3337;
+	}
+	#ba_eu_cookie_more_info:hover{
+		color:#CCCCCC;
+	}
+	</style>
+<script language="javascript" type="text/javascript">
+	window.onload = function(){
+		if(2 == 3 && getCookie('ba_eu_cookie_law') == 1){
+			jQuery(".ba_popup_cookie").hide();
+			jQuery(".ba_popup_cookie").css("width","0");
+			jQuery(".ba_popup_cookie").css("height","0");
+		}
+		if(getCookie('ba_eu_cookie_law') != 1){
+			if(1 == 1 && 2==1){
+				jQuery("#ba_eu_cookie_law").slideDown();
+			}else if(1 == 1 && 2==2){
+				jQuery("#ba_eu_cookie_law").slideDown();
+			}else{
+				jQuery("#ba_eu_cookie_law").show();
+			}
+		}
+		jQuery("#ba_eu_cookie_accept").click(function(){
+			if(1==1){
+				jQuery("#ba_eu_cookie_law").hide();
+			}else if(1==2){
+				window.close();
+				window.open('#');
+			}else if(N=="Y"){
+				window.open('#');
+			}
+			jQuery(".ba_popup_cookie").hide();
+			setCookie("ba_eu_cookie_law", "1", 365);
+		});
+		if("N"=="Y" && 2 <=2){
+			setTimeout(function(){
+				if(2==1){
+					jQuery("#ba_eu_cookie_law").slideUp();
+					
+				}else{
+					jQuery("#ba_eu_cookie_law").hide();
+					
+				}
+			}, 3000);
+		}
+		
+		$(document).ready(function(){
+			if($(window).scrollTop()==0 && 2 <=2){
+				jQuery(window).scroll(function() {
+					if("N"=="Y"){
+						// console.log($(window).scrollTop());
+						if(2==1){
+							// alert('a');
+							jQuery("#ba_eu_cookie_law").slideUp();
+							
+						}else{
+							jQuery("#ba_eu_cookie_law").hide();
+							
+						}
+					}
+				});
+			}
+		});
+		
+		if("N"=="Y"){
+			jQuery("#ba_eu_cookie_law").css("border-width","3px");
+			
+		}
+		if(2==3){
+			jQuery(".ba_popup_cookie").show();
+			jQuery("#ba_eu_cookie_law .fa-times-circle-o").show();
+			var widthBody = jQuery(window).width();
+			var heightBody = jQuery(window).height();
+			jQuery('#ba_eu_cookie_law').css({ 'width':'80%','overflow':'inherit'});
+			var widthPopupCookie = jQuery('#ba_eu_cookie_law').width();
+			var heightPopupCookie = jQuery('#ba_eu_cookie_law').height();
+			var MarginLeft = ((widthBody - widthPopupCookie)/2);
+			var MarginTop = ((heightBody - heightPopupCookie)/2);
+			jQuery('#ba_eu_cookie_law').css({ "top":(MarginTop-40)+"px","left":MarginLeft+"px" });
+		}
+		jQuery('.ba_popup_cookie').click(function(){
+			jQuery(this).hide();
+			jQuery("#ba_eu_cookie_law").hide();
+		});
+		jQuery("#ba_eu_cookie_law .fa-times-circle-o").click(function(){
+			jQuery(this).hide();
+			jQuery('.ba_popup_cookie').hide();
+			jQuery("#ba_eu_cookie_law").hide();
+		});
+		function setCookie(cname, cvalue, exdays) {
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays*24*60*60*1000));
+			var expires = "expires="+d.toUTCString();
+			document.cookie = cname + "=" + cvalue + "; " + expires;
+		}
+		function getCookie(cname) {
+			var name = cname + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0; i<ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1);
+				if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+			}
+			return "";
+		}
+	}
+</script>
+<div id="ba_eu_cookie_law" class="show_in_footer">
+	<div class="ba_eu_cookie_law_button">
+		<div class="ba_eu_cookie_law_text" style="display:block;line-height:25px;">
+			Ao clicar em “Aceitar”, você concorda que a Flora Aquática possa armazenar cookies para agilizar a sua experiência de compra. 
+		</div>
+		<span class="ba_eu_cookie_law_text" style="line-height:17px;">
+			<a href="javascript:void(0)" name="acceptSubmit" id="ba_eu_cookie_accept" class="btn btn-default">Aceitar</a>
+			<a href="/content/8-politica-de-privacidade" target="" name="moreInfoSubmit" id="ba_eu_cookie_more_info" class="">Saber mais</a>
+		</span>
+		
+	</div>
+	<i class="fa fa-times-circle-o icon-remove-circle"></i>
+</div>
+<div class="ba_popup_cookie"></div>
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700,400italic" type="text/css" media="all" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400, 500, 600, 700,400italic" type="text/css" media="all" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,600&amp;subset=latin,latin-ext" type="text/css" media="all" />
+		<link rel="stylesheet" href="https://www.flora-aquatica.com.br/themes/flower_shop/css/animate.css" type="text/css" />
+		<script type="text/javascript" src="https://www.flora-aquatica.com.br/themes/flower_shop/js/wow.min.js"></script>
+		<script>new WOW().init();</script>  
+		<!--[if IE 8]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body id="category" class="category category-17 category-plantas-aquaticas hide-right-column lang_br">
+					<div id="page">
+			<div class="header-container">
+				<header id="header">
+					<div class="banner">
+						<div class="container">
+							<div class="row">
+								
+							</div>
+						</div>
+					</div>
+					<div class="nav">
+						<div class="container">
+							<div class="row">
+								<nav><!-- Block user information module NAV  -->
+<div class="header_user_info">
+			<a class="login" href="https://www.flora-aquatica.com.br/minha-conta" rel="nofollow" title="Entrar com sua conta de cliente">
+			Entrar
+		</a>
+	</div>
+<!-- /Block usmodule NAV -->
+<!-- Block languages module -->
+<!-- /Block languages module -->
+
+	<span class="shop-phone">
+		<a href="https://api.whatsapp.com/send?phone=55(21) 99677-7998" target="_blank">
+			<i class="fa fa-whatsapp"></i>Whatsapp <strong>(21) 99677-7998</strong>
+		</a>
+	</span>
+</nav>
+							</div>
+						</div>
+					</div>
+					<div>
+						<div class="container">
+							<div class="row">
+								
+								<!-- Block search module TOP -->
+<div id="search_block_top" class="col-sm-4 clearfix">
+	<form id="searchbox" method="get" action="//www.flora-aquatica.com.br/procurar" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Busca" value="" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span>Busca</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP -->
+<div id="header_logo">
+									<a href="https://www.flora-aquatica.com.br/" title="Flora Aquática®">
+										<img class="logo img-responsive" src="https://www.flora-aquatica.com.br/img/floraaquatica-logo-1466214119.jpg" alt="Flora Aquática®" width="240" height="179"/>
+									</a>
+								</div><!-- MODULE Block cart -->
+<div class="col-sm-4 clearfix">
+	<div class="shopping_cart">
+		<a href="https://www.flora-aquatica.com.br/pedido" title="Ver meu carrinho de compras" rel="nofollow">
+			<b>Carrinho</b>
+			<span class="ajax_cart_quantity unvisible">0</span>
+			<span class="ajax_cart_product_txt unvisible">Produto</span>
+			<span class="ajax_cart_product_txt_s unvisible">Produtos</span>
+			<span class="ajax_cart_total unvisible">
+							</span>
+			<span class="ajax_cart_no_product">(vazio)</span>
+					</a>
+					<div class="cart_block exclusive">
+				<div class="block_content">
+					<!-- block list of products -->
+					<div class="cart_block_list">
+												<p class="cart_block_no_products">
+							Sem produtos
+						</p>
+												<div class="cart-prices">
+							<div class="cart-prices-line first-line">
+								<span class="price cart_block_shipping_cost ajax_cart_shipping_cost unvisible">
+																			 											A ser determinado
+										 																	</span>
+								<span class="unvisible">
+									Frete
+								</span>
+							</div>
+																					<div class="cart-prices-line last-line">
+								<span class="price cart_block_total ajax_block_cart_total">R$ 0,00</span>
+								<span>Total</span>
+							</div>
+													</div>
+						<p class="cart-buttons">
+							<a id="button_order_cart" class="btn btn-default button button-small" href="https://www.flora-aquatica.com.br/pedido" title="Finalizar" rel="nofollow">
+								<span>
+									Finalizar<i class="icon-chevron-right right"></i>
+								</span>
+							</a>
+						</p>
+					</div>
+				</div>
+			</div><!-- .cart_block -->
+			</div>
+</div>
+
+	<div id="layer_cart">
+		<div class="clearfix">
+			<div class="layer_cart_product col-xs-12 col-md-6">
+				<span class="cross" title="Feche a janela"></span>
+				<h2>
+					<i class="icon-check"></i>Produto adicionado com sucesso no carrinho
+				</h2>
+				<div class="product-image-container layer_cart_img">
+				</div>
+				<div class="layer_cart_product_info">
+					<span id="layer_cart_product_title" class="product-name"></span>
+					<span id="layer_cart_product_attributes"></span>
+					<div>
+						<strong class="dark">Quantidade</strong>
+						<span id="layer_cart_product_quantity"></span>
+					</div>
+					<div>
+						<strong class="dark">Total</strong>
+						<span id="layer_cart_product_price"></span>
+					</div>
+				</div>
+			</div>
+			<div class="layer_cart_cart col-xs-12 col-md-6">
+				<h2>
+					<!-- Plural Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt_s  unvisible">
+						Existem <span class="ajax_cart_quantity">0</span> itens em seu carrinho.
+					</span>
+					<!-- Singular Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt ">
+						Existe 1 item no seu carrinho.
+					</span>
+				</h2>
+
+				<div class="layer_cart_row">
+					<strong class="dark">
+						Total produtos
+											</strong>
+					<span class="ajax_block_products_total">
+											</span>
+				</div>
+
+								<div class="layer_cart_row">
+					<strong class="dark unvisible">
+						Total Frete&nbsp;					</strong>
+					<span class="ajax_cart_shipping_cost unvisible">
+													 A ser determinado											</span>
+				</div>
+								<div class="layer_cart_row">
+					<strong class="dark">
+						Total
+											</strong>
+					<span class="ajax_block_cart_total">
+											</span>
+				</div>
+				<div class="button-container">
+					<span class="continue btn btn-default button exclusive-medium" title="Continue comprando">
+						<span>
+							<i class="icon-chevron-left left"></i>Continue comprando
+						</span>
+					</span>
+					<a class="btn btn-default button button-medium"	href="https://www.flora-aquatica.com.br/pedido" title="Finalizar compra" rel="nofollow">
+						<span>
+							Finalizar compra<i class="icon-chevron-right right"></i>
+						</span>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="crossseling"></div>
+	</div> <!-- #layer_cart -->
+	<div class="layer_cart_overlay"></div>
+
+<!-- /MODULE Block cart -->
+	<!-- Menu -->
+	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
+		<div class="cat-title">Categorias</div>
+		<ul class="sf-menu clearfix menu-content">
+			<li class="sfHoverForce"><a href="https://www.flora-aquatica.com.br/17-plantas-aquaticas" title="Plantas Aquáticas">Plantas Aquáticas</a><ul><li><a href="https://www.flora-aquatica.com.br/46-aquarios" title="Aquários">Aquários</a><ul><li><a href="https://www.flora-aquatica.com.br/21-carpete-e-baixas" title="Carpete e Baixas">Carpete e Baixas</a></li><li><a href="https://www.flora-aquatica.com.br/25-medias" title="Médias">Médias</a></li><li><a href="https://www.flora-aquatica.com.br/18-altas" title="Altas">Altas</a></li><li><a href="https://www.flora-aquatica.com.br/19-anubias" title="Anubias">Anubias</a></li><li><a href="https://www.flora-aquatica.com.br/20-bulbos-e-rizomas" title="Bulbos e Rizomas">Bulbos e Rizomas</a></li><li><a href="https://www.flora-aquatica.com.br/22-cryptocoryne" title="Cryptocoryne">Cryptocoryne</a></li><li><a href="https://www.flora-aquatica.com.br/23-echinodorus" title="Echinodorus">Echinodorus</a></li><li><a href="https://www.flora-aquatica.com.br/24-flutuantes" title="Flutuantes">Flutuantes</a></li><li><a href="https://www.flora-aquatica.com.br/90-low-tech" title="Low Tech">Low Tech</a></li><li><a href="https://www.flora-aquatica.com.br/27-musgos" title="Musgos">Musgos</a></li><li><a href="https://www.flora-aquatica.com.br/95-nymphaea" title="Nymphaea">Nymphaea</a></li></ul></li><li><a href="https://www.flora-aquatica.com.br/47-lagos" title="Lagos">Lagos</a><ul><li><a href="https://www.flora-aquatica.com.br/94-flutuantes-fixas" title="Flutuantes Fixas">Flutuantes Fixas</a></li><li><a href="https://www.flora-aquatica.com.br/93-flutuantes-soltas" title="Flutuantes Soltas">Flutuantes Soltas</a></li><li><a href="https://www.flora-aquatica.com.br/28-nymphaea" title="Nymphaea">Nymphaea</a></li><li><a href="https://www.flora-aquatica.com.br/92-nymphoides" title="Nymphoides">Nymphoides</a></li><li><a href="https://www.flora-aquatica.com.br/51-marginaispaludosas" title="Marginais/Paludosas">Marginais/Paludosas</a></li><li><a href="https://www.flora-aquatica.com.br/91-oxigenadoras" title="Oxigenadoras">Oxigenadoras</a></li></ul></li></ul></li><li><a href="https://www.flora-aquatica.com.br/15-fauna" title="Fauna">Fauna</a><ul><li><a href="https://www.flora-aquatica.com.br/16-invertebrados" title="Invertebrados">Invertebrados</a><ul><li><a href="https://www.flora-aquatica.com.br/61-camaroes" title="Camarões">Camarões</a></li><li><a href="https://www.flora-aquatica.com.br/62-caramujos" title="Caramujos">Caramujos</a></li></ul></li></ul></li><li><a href="https://www.flora-aquatica.com.br/45-promocoes" title="Promoções">Promoções</a></li><li><a href="https://www.flora-aquatica.com.br/99-novidades" title="Novidades">Novidades</a></li>
+					</ul>
+	</div>
+	<!--/ Menu -->
+							</div>
+						</div>
+					</div>
+				</header>
+			</div>
+			<div class="columns-container">
+			<div id="slider_row" class="row">
+						<div id="top_column" class="center_column col-xs-12 col-sm-12"></div>
+					</div>
+				<div id="columns" class="container">
+											
+<!-- Breadcrumb -->
+<div class="breadcrumb clearfix">
+	<a class="home" href="https://www.flora-aquatica.com.br/" title="Voltar para a P&aacute;gina Inicial"><i class="icon-home"></i></a>
+			<span class="navigation-pipe">&gt;</span>
+					<nav id="breadcrumb-menu-17" class="breadcrumb-menu">Plantas Aqu&aacute;ticas<menuitem class="breadcrumb-submenu" id="breadcrumb-submenu-17"><a href="https://www.flora-aquatica.com.br/15-fauna" data-gg="">Fauna</a><a href="https://www.flora-aquatica.com.br/45-promocoes" data-gg="">Promo&ccedil;&otilde;es</a><a href="https://www.flora-aquatica.com.br/99-novidades" data-gg="">Novidades</a></menuitem></nav>
+			</div>
+<!-- /Breadcrumb -->
+
+										
+					<div class="row">
+												<div id="left_column" class="column col-xs-12 col-sm-3"><!-- Block categories module -->
+<div id="categories_block_left" class="block">
+	<h2 class="title_block">
+					Plantas Aquáticas
+			</h2>
+	<div class="block_content">
+		<ul class="tree dhtml">
+												
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/46-aquarios" title="Plantas para aquários, wabi-kusas ou paludários pequenos, médios e de grandes dimensões.">
+		Aquários
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/21-carpete-e-baixas" title="Plantas utilizadas na parte frontal do aquário, devido a baixa altura que atingem.">
+		Carpete e Baixas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/25-medias" title="Plantas que servem para compôr a zona intermediária do aquário.">
+		Médias
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/18-altas" title="Plantas utilizadas ao fundo do aquário, pois possuem grande altura e geralmente se desenvolvem rapidamente, exigindo podas constantes.">
+		Altas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/19-anubias" title="Gênero de plantas de crescimento lento, porém muito resistentes e indicadas para iniciantes. Também servem para serem usadas em aquários Lowtech, pois não exigem substrato fértil e nem adição de CO2.  As espécies menores podem ser amarradas em troncos ou pedras; já as maiores, devem ser plantadas diretamente no substrato, deixando o rizoma acima do mesmo.">
+		Anubias
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/20-bulbos-e-rizomas" title="Plantas de bulbos e rizomas">
+		Bulbos e Rizomas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/22-cryptocoryne" title="Gênero de plantas de roseta pouco exigentes, quanto à iluminação e adição de CO2, por isso também são consideradas como plantas para aquários Lowtech.">
+		Cryptocoryne
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/23-echinodorus" title="Gênero de plantas de roseta, que podem atingir grande porte. Ideais para aquários de médio e grande porte. Geralmente são utilizadas na parte intermediária e do fundo do aquário. Algumas espécies nativas são decorativas para bordas e parte rasas de lagos.">
+		Echinodorus
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/24-flutuantes" title="Plantas que auxiliam na filtragem de aquários ou lagos, ou simplesmente para serem usadas na ornamentação dos mesmos. Além disso, protegem pequenos alevinos, de predadores, em suas raízes espessas.">
+		Flutuantes
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/90-low-tech" title="Plantas de baixa manutenção que podem ser cultivadas sem recursos avançados como: luz intensa, sistemas de CO2, substrato fértil ou fertilização líquida. Ideais para novos aquaristas ou para aquários de camarões. ">
+		Low Tech
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/27-musgos" title="Muito utilizados em aquários estilo &quot;Nature&quot;, em rochas e troncos, onde são amarrados através de linha de nylon nos mesmos; ou simplesmente utilizados soltis, em aquários de reprodução de camarões ou aquários rústicos.">
+		Musgos
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/95-nymphaea" title="Plantas que se adaptam em aquários, com suas folhas submersas, ou em lagos, com suas folhas flutuantes.  São consideradas as mais belas plantas para lagos, devido às suas belíssimas flores, que variam de coloração e formato.">
+		Nymphaea
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/47-lagos" title="Plantas para grandes e pequenos lagos.">
+		Lagos
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/94-flutuantes-fixas" title="Plantas que possuem folhas que pairam na superfície da água, porém necessitam ser plantadas.">
+		Flutuantes Fixas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/93-flutuantes-soltas" title="Plantas que ficam à deriva na superfície da água, sem a necessidade de serem plantadas.">
+		Flutuantes Soltas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/28-nymphaea" title="Plantas que se adaptam em aquários, com suas folhas submersas, ou em lagos, com suas folhas flutuantes.  São consideradas as mais belas plantas para lagos, devido às suas belíssimas flores, que variam de coloração e formato.">
+		Nymphaea
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/92-nymphoides" title="São plantas flutuantes fixas, similares às Nymphaeas; porém de tamanho reduzido. Se adaptam bem em aquários e em pequenos e grandes lagos, não profundos.">
+		Nymphoides
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/51-marginaispaludosas" title="Plantas que ornamentam as margens dos lagos ou emergem de ambientes encharcados e/ou lagos rasos.">
+		Marginais/Paludosas
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/91-oxigenadoras" title="Plantas 100% aquáticas ( nunca emergem ), que liberam grande quantidade de O2 ( Oxigênio ) na água, devido à sua grande facilidade em processar a fotossíntese, que é vital para quem pretende manter um lago com peixes ( desde que os mesmos não sejam herbívoros ). ">
+		Oxigenadoras
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+									</ul>
+	</div>
+</div>
+<!-- /Block categories module -->
+
+	<!-- Block CMS module -->
+			<section id="informations_block_left_1" class="block informations_block_left">
+			<p class="title_block">
+				<a href="https://www.flora-aquatica.com.br/content/category/1-inicio">
+					Informação				</a>
+			</p>
+			<div class="block_content list-block">
+				<ul>
+																							<li>
+								<a href="https://www.flora-aquatica.com.br/content/1-entrega" title="Entrega">
+									Entrega
+								</a>
+							</li>
+																								<li>
+								<a href="https://www.flora-aquatica.com.br/content/2-seguranca" title="Segurança">
+									Segurança
+								</a>
+							</li>
+																								<li>
+								<a href="https://www.flora-aquatica.com.br/content/3-termos-e-condicoes-de-utilizacao" title="Termos e condições">
+									Termos e condições
+								</a>
+							</li>
+																								<li>
+								<a href="https://www.flora-aquatica.com.br/content/4-quem-somos" title="Quem somos">
+									Quem somos
+								</a>
+							</li>
+																								<li>
+								<a href="https://www.flora-aquatica.com.br/content/5-pagamento-seguro" title="Meios de Pagamento">
+									Meios de Pagamento
+								</a>
+							</li>
+																				</ul>
+			</div>
+		</section>
+		<!-- /Block CMS module -->
+</div>
+																		<div id="center_column" class="center_column col-xs-12 col-sm-9">
+	
+
+	    				<div class="content_scene_cat">
+            	                     <!-- Category image -->
+                    <div class="content_scene_cat_bg">
+                                                    <div class="cat_desc">
+                            <span class="category-name">
+                                Plantas Aquáticas                            </span>
+                                                            <div class="rte"><p>A maior e mais bela variedade de plantas aquáticas para ornamentar seu aquário ou lago.</p></div>
+                                                        </div>
+                                             </div>
+                              </div>
+				<h1 class="page-heading product-listing"><span class="cat-name">Plantas Aquáticas&nbsp;</span><span class="heading-counter">Foram encontrados 379 produtos.</span>
+</h1>
+		        		<!-- Subcategories -->
+		<div id="subcategories">
+			<p class="subcategory-heading">Subcategorias</p>
+			<ul class="clearfix">
+							<li>
+                	<div class="subcategory-image">
+						<a href="https://www.flora-aquatica.com.br/46-aquarios" title="Aquários" class="img">
+													<img class="replace-2x" src="https://www.flora-aquatica.com.br/c/46-medium_default/aquarios.jpg" alt="" width="125" height="125" />
+											</a>
+                   	</div>
+					<h5><a class="subcategory-name" href="https://www.flora-aquatica.com.br/46-aquarios">Aquários</a></h5>
+											<div class="cat_desc"><p>Plantas para aquários, wabi-kusas ou paludários pequenos, médios e de grandes dimensões.</p></div>
+									</li>
+							<li>
+                	<div class="subcategory-image">
+						<a href="https://www.flora-aquatica.com.br/47-lagos" title="Lagos" class="img">
+													<img class="replace-2x" src="https://www.flora-aquatica.com.br/c/47-medium_default/lagos.jpg" alt="" width="125" height="125" />
+											</a>
+                   	</div>
+					<h5><a class="subcategory-name" href="https://www.flora-aquatica.com.br/47-lagos">Lagos</a></h5>
+											<div class="cat_desc"><p>Plantas para grandes e pequenos lagos.</p></div>
+									</li>
+						</ul>
+		</div>
+        							<div class="content_sortPagiBar clearfix">
+            	<div class="sortPagiBar clearfix">
+            		<ul class="display hidden-xs">
+	<li class="display-title">Exibir:</li>
+    <li id="grid"><a rel="nofollow" href="#" title="Grade"><i class="icon-th-large"></i></a></li>
+    <li id="list"><a rel="nofollow" href="#" title="Lista"><i class="icon-th-list"></i></a></li>
+</ul>
+
+<form id="productsSortForm" action="https://www.flora-aquatica.com.br/17-plantas-aquaticas" class="productsSortForm">
+	<div class="select selector1">
+		<label for="selectProductSort">Ordenado por</label>
+		<select id="selectProductSort" class="selectProductSort form-control">
+			<option value="name:asc" selected="selected">--</option>
+							<option value="price:asc">Mais Barato</option>
+				<option value="price:desc">Mais Caro</option>
+						<option value="name:asc" selected="selected">De A a Z</option>
+			<option value="name:desc">De Z a A</option>
+							<option value="quantity:desc">Dispon&iacute;vel</option>
+						<option value="reference:asc">Refer&ecirc;ncia: Mais barato primeiro</option>
+			<option value="reference:desc">Refer&ecirc;ncia: Mais caro primeiro</option>
+		</select>
+	</div>
+</form>
+<!-- /Sort products -->
+			
+	
+                								<!-- nbr product/page -->
+			<form action="https://www.flora-aquatica.com.br/17-plantas-aquaticas" method="get" class="nbrItemPage">
+			<div class="clearfix selector1">
+												<label for="nb_item">
+					Mostrar
+				</label>
+																																	<input type="hidden" name="id_category" value="17" />
+																			<select name="n" id="nb_item" class="form-control">
+																							<option value="15" selected="selected">15</option>
+																														<option value="30" >30</option>
+																														<option value="75" >75</option>
+																					</select>
+				<span>por p&aacute;gina</span>
+			</div>
+		</form>
+		<!-- /nbr product/page -->
+
+				</div>
+                <div class="top-pagination-content clearfix">
+                		<form method="post" action="https://www.flora-aquatica.com.br/comparação-de-produtos" class="compare-form">
+		<button type="submit" class="btn btn-default button button-medium bt_compare bt_compare" disabled="disabled">
+			<span>Comparar (<strong class="total-compare-val">0</strong>)<i class="icon-chevron-right right"></i></span>
+		</button>
+		<input type="hidden" name="compare_product_count" class="compare_product_count" value="0" />
+		<input type="hidden" name="compare_product_list" class="compare_product_list" value="" />
+	</form>
+			
+		
+		
+		
+	
+					
+	
+												<!-- Pagination -->
+	<div id="pagination" class="pagination clearfix">
+	    			<form class="showall" action="https://www.flora-aquatica.com.br/17-plantas-aquaticas" method="get">
+				<div>
+											                <button type="submit" class="btn btn-default button exclusive-medium">
+	                	<span>Mostrar todos</span>
+	                </button>
+																																							<input type="hidden" name="id_category" value="17" />
+																			                <input name="n" id="nb_item" class="hidden" value="379" />
+				</div>
+			</form>
+							<ul class="pagination">
+									<li id="pagination_previous" class="disabled pagination_previous">
+						<span>
+							<i class="icon-chevron-left"></i> <b>Anterior</b>
+						</span>
+					</li>
+																															<li class="active current">
+							<span>
+								<span>1</span>
+							</span>
+						</li>
+																				<li>
+							<a  href="/17-plantas-aquaticas?p=2">
+								<span>2</span>
+							</a>
+						</li>
+																				<li>
+							<a  href="/17-plantas-aquaticas?p=3">
+								<span>3</span>
+							</a>
+						</li>
+																		<li class="truncate">
+						<span>
+							<span>...</span>
+						</span>
+					</li>
+					<li>
+						<a href="/17-plantas-aquaticas?p=26">
+							<span>26</span>
+						</a>
+					</li>
+																										<li id="pagination_next" class="pagination_next">
+						<a  href="/17-plantas-aquaticas?p=2" rel="next">
+							<b>Pr&oacute;ximo</b> <i class="icon-chevron-right"></i>
+						</a>
+					</li>
+							</ul>
+			</div>
+    <div class="product-count">
+    	    		                        	                        	Mostrando 1 a 15 de 379 itens
+		    </div>
+	<!-- /Pagination -->
+
+                </div>
+			</div>
+				
+									
+		
+	
+	<!-- Products list -->
+	<ul class="product_list grid row">
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/carpete-e-baixas/88-aegagropila-linnaei-marimo-ball.html" title="Aegagropila linnaei (Marimo Ball)" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/162-home_default/aegagropila-linnaei-marimo-ball.jpg" alt="Cladophora aegagropila" title="Cladophora aegagropila"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/carpete-e-baixas/88-aegagropila-linnaei-marimo-ball.html" rel="https://www.flora-aquatica.com.br/carpete-e-baixas/88-aegagropila-linnaei-marimo-ball.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/carpete-e-baixas/88-aegagropila-linnaei-marimo-ball.html" rel="https://www.flora-aquatica.com.br/carpete-e-baixas/88-aegagropila-linnaei-marimo-ball.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 45,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/carpete-e-baixas/88-aegagropila-linnaei-marimo-ball.html" title="Aegagropila linnaei (Marimo Ball)" itemprop="url" >
+							Aegagropila linnaei (Marimo Ball)
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 1 Unidade (4 a 6 cm)
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 45,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/carpete-e-baixas/88-aegagropila-linnaei-marimo-ball.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_88" href="#" rel="88" onclick="WishlistCart('wishlist_block_list', 'add', '88', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/carpete-e-baixas/88-aegagropila-linnaei-marimo-ball.html" data-id-product="88">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/marginaispaludosas/436-alternanthera-bettzickiana.html" title="Alternanthera bettzickiana" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/726-home_default/alternanthera-bettzickiana.jpg" alt="Alternanthera bettzickiana" title="Alternanthera bettzickiana"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/marginaispaludosas/436-alternanthera-bettzickiana.html" rel="https://www.flora-aquatica.com.br/marginaispaludosas/436-alternanthera-bettzickiana.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/marginaispaludosas/436-alternanthera-bettzickiana.html" rel="https://www.flora-aquatica.com.br/marginaispaludosas/436-alternanthera-bettzickiana.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 5,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/marginaispaludosas/436-alternanthera-bettzickiana.html" title="Alternanthera bettzickiana" itemprop="url" >
+							Alternanthera bettzickiana
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 5,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/marginaispaludosas/436-alternanthera-bettzickiana.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_436" href="#" rel="436" onclick="WishlistCart('wishlist_block_list', 'add', '436', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/marginaispaludosas/436-alternanthera-bettzickiana.html" data-id-product="436">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/marginaispaludosas/234-alternanthera-brasiliana.html" title="Alternanthera brasiliana" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/724-home_default/alternanthera-brasiliana.jpg" alt="Alternanthera brasiliana" title="Alternanthera brasiliana"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/marginaispaludosas/234-alternanthera-brasiliana.html" rel="https://www.flora-aquatica.com.br/marginaispaludosas/234-alternanthera-brasiliana.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/marginaispaludosas/234-alternanthera-brasiliana.html" rel="https://www.flora-aquatica.com.br/marginaispaludosas/234-alternanthera-brasiliana.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 6,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/marginaispaludosas/234-alternanthera-brasiliana.html" title="Alternanthera brasiliana" itemprop="url" >
+							Alternanthera brasiliana
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 6,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/marginaispaludosas/234-alternanthera-brasiliana.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_234" href="#" rel="234" onclick="WishlistCart('wishlist_block_list', 'add', '234', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/marginaispaludosas/234-alternanthera-brasiliana.html" data-id-product="234">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/marginaispaludosas/233-alternanthera-ficoidea.html" title="Alternanthera ficoidea" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/747-home_default/alternanthera-ficoidea.jpg" alt="Alternanthera ficoidea" title="Alternanthera ficoidea"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/marginaispaludosas/233-alternanthera-ficoidea.html" rel="https://www.flora-aquatica.com.br/marginaispaludosas/233-alternanthera-ficoidea.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/marginaispaludosas/233-alternanthera-ficoidea.html" rel="https://www.flora-aquatica.com.br/marginaispaludosas/233-alternanthera-ficoidea.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 8,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/InStock" />Pronta entrega																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/marginaispaludosas/233-alternanthera-ficoidea.html" title="Alternanthera ficoidea" itemprop="url" >
+							Alternanthera ficoidea
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 5 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 8,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://www.flora-aquatica.com.br/carrinho?add=1&amp;id_product=233&amp;token=42079db058a62a757ba9bf643138a4ba" rel="nofollow" title="Adicionar" data-id-product="233" data-minimal_quantity="1">
+									<span>Adicionar</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/marginaispaludosas/233-alternanthera-ficoidea.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										Pronta entrega									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_233" href="#" rel="233" onclick="WishlistCart('wishlist_block_list', 'add', '233', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/marginaispaludosas/233-alternanthera-ficoidea.html" data-id-product="233">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/medias/429-alternanthera-reineckii-mini-.html" title="Alternanthera reineckii &#039;Mini&#039;" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/667-home_default/alternanthera-reineckii-mini-.jpg" alt="Alternanthera reineckii &#039;Mini&#039;" title="Alternanthera reineckii &#039;Mini&#039;"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/medias/429-alternanthera-reineckii-mini-.html" rel="https://www.flora-aquatica.com.br/medias/429-alternanthera-reineckii-mini-.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/medias/429-alternanthera-reineckii-mini-.html" rel="https://www.flora-aquatica.com.br/medias/429-alternanthera-reineckii-mini-.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 12,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/medias/429-alternanthera-reineckii-mini-.html" title="Alternanthera reineckii &#039;Mini&#039;" itemprop="url" >
+							Alternanthera reineckii &#039;Mini&#039;
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 12,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/medias/429-alternanthera-reineckii-mini-.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_429" href="#" rel="429" onclick="WishlistCart('wishlist_block_list', 'add', '429', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/medias/429-alternanthera-reineckii-mini-.html" data-id-product="429">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/altas/321-alternanthera-reineckii-purple-.html" title="Alternanthera reineckii &#039;Purple&#039;" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/477-home_default/alternanthera-reineckii-purple-.jpg" alt="Alternanthera reineckii &quot;Purple&quot; (Lilacina)" title="Alternanthera reineckii &quot;Purple&quot; (Lilacina)"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/altas/321-alternanthera-reineckii-purple-.html" rel="https://www.flora-aquatica.com.br/altas/321-alternanthera-reineckii-purple-.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/altas/321-alternanthera-reineckii-purple-.html" rel="https://www.flora-aquatica.com.br/altas/321-alternanthera-reineckii-purple-.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 8,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/InStock" />Pronta entrega																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/altas/321-alternanthera-reineckii-purple-.html" title="Alternanthera reineckii &#039;Purple&#039;" itemprop="url" >
+							Alternanthera reineckii &#039;Purple&#039;
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 8,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://www.flora-aquatica.com.br/carrinho?add=1&amp;id_product=321&amp;token=42079db058a62a757ba9bf643138a4ba" rel="nofollow" title="Adicionar" data-id-product="321" data-minimal_quantity="1">
+									<span>Adicionar</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/altas/321-alternanthera-reineckii-purple-.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										Pronta entrega									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_321" href="#" rel="321" onclick="WishlistCart('wishlist_block_list', 'add', '321', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/altas/321-alternanthera-reineckii-purple-.html" data-id-product="321">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/altas/322-alternanthera-reineckii-roseafolia-.html" title="Alternanthera reineckii &#039;Roseafolia&#039;" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/478-home_default/alternanthera-reineckii-roseafolia-.jpg" alt="Alternanthera reineckii &quot;Roseafolia&quot;" title="Alternanthera reineckii &quot;Roseafolia&quot;"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/altas/322-alternanthera-reineckii-roseafolia-.html" rel="https://www.flora-aquatica.com.br/altas/322-alternanthera-reineckii-roseafolia-.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/altas/322-alternanthera-reineckii-roseafolia-.html" rel="https://www.flora-aquatica.com.br/altas/322-alternanthera-reineckii-roseafolia-.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 8,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/InStock" />Pronta entrega																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/altas/322-alternanthera-reineckii-roseafolia-.html" title="Alternanthera reineckii &#039;Roseafolia&#039;" itemprop="url" >
+							Alternanthera reineckii &#039;Roseafolia&#039;
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos 
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 8,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://www.flora-aquatica.com.br/carrinho?add=1&amp;id_product=322&amp;token=42079db058a62a757ba9bf643138a4ba" rel="nofollow" title="Adicionar" data-id-product="322" data-minimal_quantity="2">
+									<span>Adicionar</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/altas/322-alternanthera-reineckii-roseafolia-.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										Pronta entrega									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_322" href="#" rel="322" onclick="WishlistCart('wishlist_block_list', 'add', '322', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/altas/322-alternanthera-reineckii-roseafolia-.html" data-id-product="322">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/altas/323-alternanthera-reineckii-splendida-.html" title="Alternanthera reineckii &#039;Splendida&#039;" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/479-home_default/alternanthera-reineckii-splendida-.jpg" alt="Alternanthera reineckii &#039;Splendida&#039;" title="Alternanthera reineckii &#039;Splendida&#039;"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/altas/323-alternanthera-reineckii-splendida-.html" rel="https://www.flora-aquatica.com.br/altas/323-alternanthera-reineckii-splendida-.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/altas/323-alternanthera-reineckii-splendida-.html" rel="https://www.flora-aquatica.com.br/altas/323-alternanthera-reineckii-splendida-.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 8,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/altas/323-alternanthera-reineckii-splendida-.html" title="Alternanthera reineckii &#039;Splendida&#039;" itemprop="url" >
+							Alternanthera reineckii &#039;Splendida&#039;
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 8,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/altas/323-alternanthera-reineckii-splendida-.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_323" href="#" rel="323" onclick="WishlistCart('wishlist_block_list', 'add', '323', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/altas/323-alternanthera-reineckii-splendida-.html" data-id-product="323">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/marginaispaludosas/207-alternanthera-sessilis.html" title="Alternanthera sessilis" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/327-home_default/alternanthera-sessilis.jpg" alt="Alternanthera sessilis" title="Alternanthera sessilis"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/marginaispaludosas/207-alternanthera-sessilis.html" rel="https://www.flora-aquatica.com.br/marginaispaludosas/207-alternanthera-sessilis.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/marginaispaludosas/207-alternanthera-sessilis.html" rel="https://www.flora-aquatica.com.br/marginaispaludosas/207-alternanthera-sessilis.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 6,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/marginaispaludosas/207-alternanthera-sessilis.html" title="Alternanthera sessilis" itemprop="url" >
+							Alternanthera sessilis
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 6,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/marginaispaludosas/207-alternanthera-sessilis.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_207" href="#" rel="207" onclick="WishlistCart('wishlist_block_list', 'add', '207', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/marginaispaludosas/207-alternanthera-sessilis.html" data-id-product="207">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/altas/324-ammannia-gracilis.html" title="Ammannia gracilis" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/481-home_default/ammannia-gracilis.jpg" alt="Ammannia gracilis" title="Ammannia gracilis"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/altas/324-ammannia-gracilis.html" rel="https://www.flora-aquatica.com.br/altas/324-ammannia-gracilis.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/altas/324-ammannia-gracilis.html" rel="https://www.flora-aquatica.com.br/altas/324-ammannia-gracilis.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 12,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/altas/324-ammannia-gracilis.html" title="Ammannia gracilis" itemprop="url" >
+							Ammannia gracilis
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 12,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/altas/324-ammannia-gracilis.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_324" href="#" rel="324" onclick="WishlistCart('wishlist_block_list', 'add', '324', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/altas/324-ammannia-gracilis.html" data-id-product="324">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/altas/325-ammannia-multiflora.html" title="Ammannia multiflora" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/482-home_default/ammannia-multiflora.jpg" alt="Ammannia multiflora" title="Ammannia multiflora"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/altas/325-ammannia-multiflora.html" rel="https://www.flora-aquatica.com.br/altas/325-ammannia-multiflora.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/altas/325-ammannia-multiflora.html" rel="https://www.flora-aquatica.com.br/altas/325-ammannia-multiflora.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 8,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/altas/325-ammannia-multiflora.html" title="Ammannia multiflora" itemprop="url" >
+							Ammannia multiflora
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 8,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/altas/325-ammannia-multiflora.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_325" href="#" rel="325" onclick="WishlistCart('wishlist_block_list', 'add', '325', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/altas/325-ammannia-multiflora.html" data-id-product="325">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/medias/135-ammannia-praetermissa.html" title="Ammannia praetermissa" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/226-home_default/ammannia-praetermissa.jpg" alt="Ammannia praetermissa" title="Ammannia praetermissa"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/medias/135-ammannia-praetermissa.html" rel="https://www.flora-aquatica.com.br/medias/135-ammannia-praetermissa.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/medias/135-ammannia-praetermissa.html" rel="https://www.flora-aquatica.com.br/medias/135-ammannia-praetermissa.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 10,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/medias/135-ammannia-praetermissa.html" title="Ammannia praetermissa" itemprop="url" >
+							Ammannia praetermissa
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 3 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 10,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/medias/135-ammannia-praetermissa.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_135" href="#" rel="135" onclick="WishlistCart('wishlist_block_list', 'add', '135', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/medias/135-ammannia-praetermissa.html" data-id-product="135">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line first-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/medias/116-ammannia-senegalensis.html" title="Ammannia senegalensis" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/188-home_default/ammannia-senegalensis.jpg" alt="Ammannia senegalensis" title="Ammannia senegalensis"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/medias/116-ammannia-senegalensis.html" rel="https://www.flora-aquatica.com.br/medias/116-ammannia-senegalensis.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/medias/116-ammannia-senegalensis.html" rel="https://www.flora-aquatica.com.br/medias/116-ammannia-senegalensis.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 10,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/InStock" />Pronta entrega																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/medias/116-ammannia-senegalensis.html" title="Ammannia senegalensis" itemprop="url" >
+							Ammannia senegalensis
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 5 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 10,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://www.flora-aquatica.com.br/carrinho?add=1&amp;id_product=116&amp;token=42079db058a62a757ba9bf643138a4ba" rel="nofollow" title="Adicionar" data-id-product="116" data-minimal_quantity="1">
+									<span>Adicionar</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/medias/116-ammannia-senegalensis.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										Pronta entrega									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_116" href="#" rel="116" onclick="WishlistCart('wishlist_block_list', 'add', '116', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/medias/116-ammannia-senegalensis.html" data-id-product="116">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line last-item-of-tablet-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/medias/119-ammannia-sp-bonsai.html" title="Ammannia sp. Bonsai" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/191-home_default/ammannia-sp-bonsai.jpg" alt="Ammannia sp. Bonsai" title="Ammannia sp. Bonsai"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/medias/119-ammannia-sp-bonsai.html" rel="https://www.flora-aquatica.com.br/medias/119-ammannia-sp-bonsai.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/medias/119-ammannia-sp-bonsai.html" rel="https://www.flora-aquatica.com.br/medias/119-ammannia-sp-bonsai.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 15,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/medias/119-ammannia-sp-bonsai.html" title="Ammannia sp. Bonsai" itemprop="url" >
+							Ammannia sp. Bonsai
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 5 Ramos
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 15,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/medias/119-ammannia-sp-bonsai.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_119" href="#" rel="119" onclick="WishlistCart('wishlist_block_list', 'add', '119', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/medias/119-ammannia-sp-bonsai.html" data-id-product="119">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line first-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.flora-aquatica.com.br/anubias/151-anubias-afzelii.html" title="Anubias afzelii" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://www.flora-aquatica.com.br/274-home_default/anubias-afzelii.jpg" alt="Anubias afzelii" title="Anubias afzelii"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://www.flora-aquatica.com.br/anubias/151-anubias-afzelii.html" rel="https://www.flora-aquatica.com.br/anubias/151-anubias-afzelii.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://www.flora-aquatica.com.br/anubias/151-anubias-afzelii.html" rel="https://www.flora-aquatica.com.br/anubias/151-anubias-afzelii.html">
+							<span></span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										R$ 35,00									</span>
+									<meta itemprop="priceCurrency" content="BRL" />
+																	<!--																							<link itemprop="availability" href="http://schema.org/OutOfStock" />Esgotado
+																			-->
+									
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://www.flora-aquatica.com.br/anubias/151-anubias-afzelii.html" title="Anubias afzelii" itemprop="url" >
+							Anubias afzelii
+						</a>
+					</h5>
+					
+					<p class="product-desc" itemprop="description">
+						Porção: 1 Muda
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								R$ 35,00							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Adicionar</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://www.flora-aquatica.com.br/anubias/151-anubias-afzelii.html" title="Ver">
+							<span>Mais</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="out-of-stock">
+										Esgotado
+									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+<div class="wishlist">
+	<a class="addToWishlist wishlistProd_151" href="#" rel="151" onclick="WishlistCart('wishlist_block_list', 'add', '151', false, 1); return false;">
+		Adicionar à Lista de presentes
+	</a>
+</div>
+													<div class="compare">
+								<a class="add_to_compare" href="https://www.flora-aquatica.com.br/anubias/151-anubias-afzelii.html" data-id-product="151">Adicionar &agrave; compara&ccedil;&atilde;o</a>
+							</div>
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+		</ul>
+
+
+
+
+
+			<div class="content_sortPagiBar">
+				<div class="bottom-pagination-content clearfix">
+						<form method="post" action="https://www.flora-aquatica.com.br/comparação-de-produtos" class="compare-form">
+		<button type="submit" class="btn btn-default button button-medium bt_compare bt_compare_bottom" disabled="disabled">
+			<span>Comparar (<strong class="total-compare-val">0</strong>)<i class="icon-chevron-right right"></i></span>
+		</button>
+		<input type="hidden" name="compare_product_count" class="compare_product_count" value="0" />
+		<input type="hidden" name="compare_product_list" class="compare_product_list" value="" />
+	</form>
+	
+                    
+	
+												<!-- Pagination -->
+	<div id="pagination_bottom" class="pagination clearfix">
+	    			<form class="showall" action="https://www.flora-aquatica.com.br/17-plantas-aquaticas" method="get">
+				<div>
+											                <button type="submit" class="btn btn-default button exclusive-medium">
+	                	<span>Mostrar todos</span>
+	                </button>
+																																							<input type="hidden" name="id_category" value="17" />
+																			                <input name="n" id="nb_item" class="hidden" value="379" />
+				</div>
+			</form>
+							<ul class="pagination">
+									<li id="pagination_previous_bottom" class="disabled pagination_previous">
+						<span>
+							<i class="icon-chevron-left"></i> <b>Anterior</b>
+						</span>
+					</li>
+																															<li class="active current">
+							<span>
+								<span>1</span>
+							</span>
+						</li>
+																				<li>
+							<a  href="/17-plantas-aquaticas?p=2">
+								<span>2</span>
+							</a>
+						</li>
+																				<li>
+							<a  href="/17-plantas-aquaticas?p=3">
+								<span>3</span>
+							</a>
+						</li>
+																		<li class="truncate">
+						<span>
+							<span>...</span>
+						</span>
+					</li>
+					<li>
+						<a href="/17-plantas-aquaticas?p=26">
+							<span>26</span>
+						</a>
+					</li>
+																										<li id="pagination_next_bottom" class="pagination_next">
+						<a  href="/17-plantas-aquaticas?p=2" rel="next">
+							<b>Pr&oacute;ximo</b> <i class="icon-chevron-right"></i>
+						</a>
+					</li>
+							</ul>
+			</div>
+    <div class="product-count">
+    	    		                        	                        	Mostrando 1 a 15 de 379 itens
+		    </div>
+	<!-- /Pagination -->
+
+				</div>
+			</div>
+								</div><!-- #center_column -->
+										</div><!-- .row -->
+				</div><!-- #columns -->
+			</div><!-- .columns-container -->
+							<!-- Footer -->
+				<div class="footer-container">
+					<footer id="footer"  class="container">
+						<div class="row"><!-- Block Newsletter module-->
+<div id="newsletter_block_left" >
+	<h4>Newsletter</h4>
+	<div class="block_content">
+		<form action="//www.flora-aquatica.com.br/" method="post">
+			<div class="form-group" >
+				<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" value="Digite seu e-mail" />
+                <button type="submit" name="submitNewsletter" class="btn btn-default button button-small">
+                    <span>Ok</span>
+                </button>
+				<input type="hidden" name="action" value="0" />
+			</div>
+		</form>
+	</div>
+</div>
+<!-- /Block Newsletter module-->
+<section id="social_block" class="pull-right">
+	<ul>
+					<li class="facebook">
+				<a class="_blank" href="https://www.facebook.com/FloraAquaticaplantas/?fref=ts">
+					<span>Facebook</span>
+				</a>
+			</li>
+						                                                	<li class="instagram">
+        		<a class="_blank" href="https://instagram.com/floraaquatica">
+        			<span>Instagram</span>
+        		</a>
+        	</li>
+        	</ul>
+    <h4>Siga-nos</h4>
+</section>
+<div class="clearfix"></div>
+
+<!-- Block categories module -->
+<section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
+	<h4>Categorias</h4>
+	<div class="category_footer toggle-footer">
+		<div class="list">
+			<ul class="tree dhtml">
+												
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/17-plantas-aquaticas" class="selected" title="A maior e mais bela variedade de plantas aquáticas para ornamentar seu aquário ou lago.">
+		Plantas Aquáticas
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/46-aquarios" title="Plantas para aquários, wabi-kusas ou paludários pequenos, médios e de grandes dimensões.">
+		Aquários
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/21-carpete-e-baixas" title="Plantas utilizadas na parte frontal do aquário, devido a baixa altura que atingem.">
+		Carpete e Baixas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/25-medias" title="Plantas que servem para compôr a zona intermediária do aquário.">
+		Médias
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/18-altas" title="Plantas utilizadas ao fundo do aquário, pois possuem grande altura e geralmente se desenvolvem rapidamente, exigindo podas constantes.">
+		Altas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/19-anubias" title="Gênero de plantas de crescimento lento, porém muito resistentes e indicadas para iniciantes. Também servem para serem usadas em aquários Lowtech, pois não exigem substrato fértil e nem adição de CO2.  As espécies menores podem ser amarradas em troncos ou pedras; já as maiores, devem ser plantadas diretamente no substrato, deixando o rizoma acima do mesmo.">
+		Anubias
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/20-bulbos-e-rizomas" title="Plantas de bulbos e rizomas">
+		Bulbos e Rizomas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/22-cryptocoryne" title="Gênero de plantas de roseta pouco exigentes, quanto à iluminação e adição de CO2, por isso também são consideradas como plantas para aquários Lowtech.">
+		Cryptocoryne
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/23-echinodorus" title="Gênero de plantas de roseta, que podem atingir grande porte. Ideais para aquários de médio e grande porte. Geralmente são utilizadas na parte intermediária e do fundo do aquário. Algumas espécies nativas são decorativas para bordas e parte rasas de lagos.">
+		Echinodorus
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/24-flutuantes" title="Plantas que auxiliam na filtragem de aquários ou lagos, ou simplesmente para serem usadas na ornamentação dos mesmos. Além disso, protegem pequenos alevinos, de predadores, em suas raízes espessas.">
+		Flutuantes
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/90-low-tech" title="Plantas de baixa manutenção que podem ser cultivadas sem recursos avançados como: luz intensa, sistemas de CO2, substrato fértil ou fertilização líquida. Ideais para novos aquaristas ou para aquários de camarões. ">
+		Low Tech
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/27-musgos" title="Muito utilizados em aquários estilo &quot;Nature&quot;, em rochas e troncos, onde são amarrados através de linha de nylon nos mesmos; ou simplesmente utilizados soltis, em aquários de reprodução de camarões ou aquários rústicos.">
+		Musgos
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/95-nymphaea" title="Plantas que se adaptam em aquários, com suas folhas submersas, ou em lagos, com suas folhas flutuantes.  São consideradas as mais belas plantas para lagos, devido às suas belíssimas flores, que variam de coloração e formato.">
+		Nymphaea
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/47-lagos" title="Plantas para grandes e pequenos lagos.">
+		Lagos
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/94-flutuantes-fixas" title="Plantas que possuem folhas que pairam na superfície da água, porém necessitam ser plantadas.">
+		Flutuantes Fixas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/93-flutuantes-soltas" title="Plantas que ficam à deriva na superfície da água, sem a necessidade de serem plantadas.">
+		Flutuantes Soltas
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/28-nymphaea" title="Plantas que se adaptam em aquários, com suas folhas submersas, ou em lagos, com suas folhas flutuantes.  São consideradas as mais belas plantas para lagos, devido às suas belíssimas flores, que variam de coloração e formato.">
+		Nymphaea
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/92-nymphoides" title="São plantas flutuantes fixas, similares às Nymphaeas; porém de tamanho reduzido. Se adaptam bem em aquários e em pequenos e grandes lagos, não profundos.">
+		Nymphoides
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/51-marginaispaludosas" title="Plantas que ornamentam as margens dos lagos ou emergem de ambientes encharcados e/ou lagos rasos.">
+		Marginais/Paludosas
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/91-oxigenadoras" title="Plantas 100% aquáticas ( nunca emergem ), que liberam grande quantidade de O2 ( Oxigênio ) na água, devido à sua grande facilidade em processar a fotossíntese, que é vital para quem pretende manter um lago com peixes ( desde que os mesmos não sejam herbívoros ). ">
+		Oxigenadoras
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+									</ul>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/15-fauna" title="Peixes, camarões e caramujos para aquários de água doce.">
+		Fauna
+	</a>
+			<ul>
+												
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/16-invertebrados" title="Invertebrados dulcícolas variados. Excelente algueiros.">
+		Invertebrados
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/61-camaroes" title="Camarões de variadas espécies e tipos para o seu aquário.">
+		Camarões
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/62-caramujos" title="Seres que além de ornamentarem seus aquários, com suas formas e cores, também auxiliam na limpeza de seu aquário, consumindo algas e detritos.">
+		Caramujos
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+									</ul>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="https://www.flora-aquatica.com.br/45-promocoes" title="Kits promocionais com preços especiais. Comprando os Kits, você economizará mais do que se comprar os produtos separadamente.">
+		Promoções
+	</a>
+	</li>
+
+							
+																
+<li class="last">
+	<a 
+	href="https://www.flora-aquatica.com.br/99-novidades" title="Plantas raras exclusivas da Flora Aquática® ou recém introduzidas ao hobby; além de crustáceos raros.">
+		Novidades
+	</a>
+	</li>
+
+							
+										</ul>
+		</div>
+	</div> <!-- .category_footer -->
+</section>
+<!-- /Block categories module -->
+
+	<!-- MODULE Block footer -->
+	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
+		<h4>Informação</h4>
+		<ul class="toggle-footer">
+													<li class="item">
+					<a href="https://www.flora-aquatica.com.br/melhores-vendas" title="Mais vendidos">
+						Mais vendidos
+					</a>
+				</li>
+																					<li class="item">
+						<a href="https://www.flora-aquatica.com.br/content/1-entrega" title="Entrega">
+							Entrega
+						</a>
+					</li>
+																<li class="item">
+						<a href="https://www.flora-aquatica.com.br/content/3-termos-e-condicoes-de-utilizacao" title="Termos e condições">
+							Termos e condições
+						</a>
+					</li>
+																<li class="item">
+						<a href="https://www.flora-aquatica.com.br/content/4-quem-somos" title="Quem somos">
+							Quem somos
+						</a>
+					</li>
+																<li class="item">
+						<a href="https://www.flora-aquatica.com.br/content/5-pagamento-seguro" title="Meios de Pagamento">
+							Meios de Pagamento
+						</a>
+					</li>
+													<li>
+				<a href="https://www.flora-aquatica.com.br/mapa do site" title="Mapa do site">
+					Mapa do site
+				</a>
+			</li>
+					</ul>
+		
+	</section>
+		<section class="bottom-footer col-xs-12">
+		<div>
+			&copy; 2016 - <a class="_blank" href="http://1.flora-aquatica.tmp.k8.com.br/index.php?id_cms=2&controller=cms">Todos os direitos reservados Flora Aquática®</a>
+		</div>
+	</section>
+		<!-- /MODULE Block footer -->
+
+<!-- Block myaccount module -->
+<section class="footer-block col-xs-12 col-sm-4">
+	<h4><a href="https://www.flora-aquatica.com.br/minha-conta" title="Gerenciar minha conta de usuário" rel="nofollow">Minha Conta</a></h4>
+	<div class="block_content toggle-footer">
+		<ul class="bullet">
+			<li><a href="https://www.flora-aquatica.com.br/histórico-de-pedidos" title="Minhas Compras" rel="nofollow">Minhas Compras</a></li>
+						<li><a href="https://www.flora-aquatica.com.br/nota-do-pedido" title="Vales de créditos" rel="nofollow">Vales de créditos</a></li>
+			<li><a href="https://www.flora-aquatica.com.br/endereços" title="Meus endereços" rel="nofollow">Meus endereços</a></li>
+			<li><a href="https://www.flora-aquatica.com.br/identificação" title="Gerenciar minhas informações pessoais" rel="nofollow">Minhas Informações</a></li>
+						
+            		</ul>
+	</div>
+</section>
+<!-- /Block myaccount module -->
+
+<!-- MODULE Block contact infos -->
+<section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
+	<div>
+        <h4>Informação da loja</h4>
+        <ul class="toggle--footer">
+                        	<li>
+            		<i class="icon-map-marker"></i>Flora Aquática            	</li>
+                                    	<li>
+					<a href="https://api.whatsapp.com/send?phone=55(21) 99677-7998" target="_blank">
+						<i class="fa fa-whatsapp"></i>Whatsapp: 
+						<span>(21) 99677-7998</span>
+					</a>
+            	</li>
+                                    	<li>
+            		<i class="icon-envelope-alt"></i>E-mail: 
+            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6f%6e%74%61%74%6f@%66%6c%6f%72%61-%61%71%75%61%74%69%63%61.%63%6f%6d.%62%72" >&#x63;&#x6f;&#x6e;&#x74;&#x61;&#x74;&#x6f;&#x40;&#x66;&#x6c;&#x6f;&#x72;&#x61;&#x2d;&#x61;&#x71;&#x75;&#x61;&#x74;&#x69;&#x63;&#x61;&#x2e;&#x63;&#x6f;&#x6d;&#x2e;&#x62;&#x72;</a></span>
+            	</li>
+                    </ul>
+    </div>
+</section>
+
+<a href="https://api.whatsapp.com/send?phone=55(21) 99677-7998" target="_blank" class="float_whatsapp" style="width: 50px;
+    height: 50px;
+    color: #FFF;
+    background: #38af48;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 100%;
+    position: fixed;
+    right: 26px;
+    bottom: 80px;"><i class="fa fa-whatsapp"></i></a>
+<!-- /MODULE Block contact infos -->
+<script>
+var scrolltotop = {
+	setting: { 
+		
+			startline:100, scrollto: 0, scrollduration:1000, fadeduration:[500, 100]
+		
+	},
+	controlHTML: 
+		'<img style="width:50px; height:50px" src="/modules/scrolltop/img/1userUp.png" />'
+	,
+	controlattrs: {
+		
+			offsetx:25, offsety:25
+			
+	},
+	anchorkeyword: '#top',
+	state: {isvisible:false, shouldvisible:false},
+	scrollup:function(){
+		if (!this.cssfixedsupport)
+			this.$control.css({opacity:0})
+		var dest=isNaN(this.setting.scrollto)? this.setting.scrollto : parseInt(this.setting.scrollto)
+		if (typeof dest=="string" && jQuery('#'+dest).length==1)
+			dest=jQuery('#'+dest).offset().top
+		else
+			dest=0
+		this.$body.animate({scrollTop: dest}, this.setting.scrollduration);
+	},
+
+	keepfixed:function(){
+		var $window=jQuery(window)
+		var controlx=$window.scrollLeft() + $window.width() - this.$control.width() - this.controlattrs.offsetx
+		var controly=$window.scrollTop() + $window.height() - this.$control.height() - this.controlattrs.offsety
+		this.$control.css({left:controlx+'px', top:controly+'px'})
+	},
+
+	togglecontrol:function(){
+		var scrolltop=jQuery(window).scrollTop()
+		if (!this.cssfixedsupport)
+			this.keepfixed()
+		this.state.shouldvisible=(scrolltop>=this.setting.startline)? true : false
+		if (this.state.shouldvisible && !this.state.isvisible){
+			this.$control.stop().animate({opacity:1}, this.setting.fadeduration[0])
+			this.state.isvisible=true
+		}
+		else if (this.state.shouldvisible==false && this.state.isvisible){
+			this.$control.stop().animate({opacity:0}, this.setting.fadeduration[1])
+			this.state.isvisible=false
+		}
+	},
+	
+	init:function(){
+		jQuery(document).ready(function($){
+			var mainobj=scrolltotop
+			var iebrws=document.all
+			mainobj.cssfixedsupport=!iebrws || iebrws && document.compatMode=="CSS1Compat" && window.XMLHttpRequest
+			mainobj.$body=(window.opera)? (document.compatMode=="CSS1Compat"? $('html') : $('body')) : $('html,body')
+			mainobj.$control=$('<div id="topcontrol">'+mainobj.controlHTML+'</div>')
+				.css({position:mainobj.cssfixedsupport? 'fixed' : 'absolute', bottom:mainobj.controlattrs.offsety, right:mainobj.controlattrs.offsetx, opacity:0, cursor:'pointer', zIndex:9999})
+				.attr({title:'Scroll Back to Top'})
+				.click(function(){mainobj.scrollup(); return false})
+				.appendTo('body')
+			if (document.all && !window.XMLHttpRequest && mainobj.$control.text()!='')
+				mainobj.$control.css({width:mainobj.$control.width()})
+			mainobj.togglecontrol()
+			$('a[href="' + mainobj.anchorkeyword +'"]').click(function(){
+				mainobj.scrollup()
+				return false
+			})
+			$(window).bind('scroll resize', function(e){
+				mainobj.togglecontrol()
+			})
+		})
+	}
+}
+$(document).ready(function(){
+	scrolltotop.init();
+});
+</script>
+</div>
+					</footer>
+				</div><!-- #footer -->
+					</div><!-- #page -->
+</body></html>

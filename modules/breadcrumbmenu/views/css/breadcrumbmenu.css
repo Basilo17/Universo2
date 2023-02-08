@@ -1,0 +1,32 @@
+.breadcrumb {
+	overflow: visible;
+}
+.breadcrumb-menu {
+	display: inline;	
+	position: relative;
+}
+.breadcrumb-submenu {
+	display: none;
+	left: 0;
+    position: absolute;
+    top: 20px;
+    width: auto;
+}
+.breadcrumb-submenu a {
+	display: block;
+	border: 1px solid #d6d4d4;
+	white-space: nowrap;
+}
+.breadcrumb-menu:first-child menuitem {
+	left: 3px;
+}
+.breadcrumb-menu:first-child menuitem a {
+	padding-left: 18px;	
+}
+ 
+.breadcrumb-menu:last-child menuitem {
+	left: 6px;
+} 
+.breadcrumb-menu:last-child menuitem a {
+	padding-left: 18px;	
+}
